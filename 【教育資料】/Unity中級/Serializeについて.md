@@ -13,5 +13,8 @@
 ## インスペクターに変数を表示させない
 `[System.NonSerialized]`をつける
 
+または何もつけない！
+
+
 ## 参考
 - [Unityのシリアライズ完全ガイド！データの保存・読み込みを自由自在に | C-BA Unity-memo](https://cbagames.jp/2025/03/02/unity-serialize-guide/)
